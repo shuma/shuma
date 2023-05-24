@@ -5,13 +5,3 @@
 
 Vim at my fingertips, with each keystroke, I dance with destiny, hoping I don't stumble upon a syntax error that mocks my existence.
 
-<br>
-<br>
-<br>
-
-```
-✵ 　　     　 　　  .
- 　　　✷   · 　 . 　　　   '   ✴     ·    ✵    ˚      ✦   '   ✴     ·        *   * · .                 .
- . *  ˚  　 * ✷   .   ✫       *   * · .      *   ✧  ·       *   * · .       +            ,      ✦
- ·   · .  ✦              ˚  .        +  ·  ✧      ✵ '   ★   ˚  .        +  ·  .           +       ˚  .
-```
