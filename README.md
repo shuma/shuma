@@ -3,6 +3,4 @@
 
 <br>
 Vim at my fingertips, with each keystroke, I dance with destiny, hoping I don't stumble upon a syntax error that mocks my existence.
-As a seasoned software engineer with a decade of experience building for the web, I harbor a deep passion for open-source and AI advancements,
-eagerly anticipating their transformative potential in the coming years.
-
+Software engineer with a decade of experience building for the web. 
